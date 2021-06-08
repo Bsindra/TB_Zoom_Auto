@@ -1,6 +1,6 @@
 // Version 1 2021-06-03 by Bsindra on github.
 
-function TB_Zoom_Vito()
+function TB_Zoom_Auto()
 {
     var d = new Dialog;
     d.title = "Auto - Scale ";
